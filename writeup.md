@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** [Elisabeth]  
+**Date:** [8/18/2025]
 
 ---
 
