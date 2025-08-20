@@ -1,6 +1,6 @@
 # Assignment 0 Writeup
 
-**Name:** [Elisabeth]  
+**Name:** [Elisabeth Cami]  
 **Date:** [8/20/2025]
 
 ---
