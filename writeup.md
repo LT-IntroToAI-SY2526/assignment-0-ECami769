@@ -18,7 +18,7 @@ Committing is marking where you want to make a change, also imforming other peop
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository contains READMEs. READMEs provide information about you, your project and what you will be doing.
 
 ---
 
