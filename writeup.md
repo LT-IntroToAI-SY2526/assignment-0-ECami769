@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
 **Name:** [Elisabeth]  
-**Date:** [8/18/2025]
+**Date:** [8/20/2025]
 
 ---
 
@@ -14,7 +14,7 @@ Git is a tool that makes it easy to track changes to code, collaborating and mor
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Committing is marking where you want to make a change, also imforming other people what you are thinking. Pushing is when you confirm the change, almost like saving something. These steps are important because it informs people around you what you are doing and it allows for the changes made to stay.
 
 **3. What is a repository and what does it contain?**
 
