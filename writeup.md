@@ -26,7 +26,7 @@ A repository is like a project folder and whithin it are READMEs. READMEs provid
 
 **Link to your GitHub profile repository:** 
 
-(https://github.com/ECami769/ECami769)
+https://github.com/ECami769/ECami769
 ---
 
 ## Looking Ahead
