@@ -34,7 +34,7 @@ A repository is like a project folder and whithin it are READMEs. READMEs provid
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I think I'm most excited to learn about how it functions and how it came to be because now it's used daily by so many people.
 
 ---
 
