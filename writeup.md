@@ -26,8 +26,7 @@ A repository is like a project folder and whithin it are READMEs. READMEs provid
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
-
+(https://github.com/ECami769/ECami769)
 ---
 
 ## Looking Ahead
